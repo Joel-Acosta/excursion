@@ -1,4 +1,4 @@
-/* universal */
+            /* universal */
 
 html{
     background-color: black;
@@ -9,13 +9,36 @@ html{
 
 }
 
-.link{
-    color: aquamarine;
-    font-size: 16px;
-}
+            /*header*/
 
 h1{
     font-size: 50px;
     font-family: Verdana;
     font-weight: normal;
+}
+
+            /* main */
+
+h2{
+    font-weight: 300;
+    font-size: 42px;
+    font-family: Verdana;
+
+}
+
+p{
+    font-size: 21px;
+    color: gray;
+
+}
+
+a{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+            /* footer */
+.trademark{
+    text-align: right;
+    color: gray;
 }
